@@ -1,11 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966”>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrsh-dixt&label=Profile%20views&color=0e75b6&style=flat" alt="hrsh-dixt" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🏢 I’m currently studying at **U.I.E.T. Panjab University**
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://user-images.githubusercontent.com/96528451/236910718-b9927223-ed2a-4b98-9e5e-2247cf71630f.gif)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Neural Networks**
 
